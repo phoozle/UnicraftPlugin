@@ -1,0 +1,8 @@
+name: UniCraft Helper
+main: co.unicraft.Unicraft
+version: 0.1
+commands:
+    verify:
+        description: verify you are a UniSA student via email
+    guest:
+        description: manage your guests
